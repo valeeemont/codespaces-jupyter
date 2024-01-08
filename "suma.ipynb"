@@ -4,4 +4,3 @@ if numero1>=numero2:
    print("el numero1 es mayor al numero2")
   else:
    print("el numero2 es mayor al numero1")
-   
